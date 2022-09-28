@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&family=Nunito+Sans:wght@600&family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+.navmain {
+  background-color: #062c30;
+  color: white;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navmaintext {
+  font-size: 2rem;
+  text-align: center;
+  float: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.navop {
+  font-size: 1.2rem;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.navoption {
+  color: #e2d784;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  border: 1px white solid;
+  font-family: 'Nunito Sans', sans-serif;
+  border-radius: 10px;
+}
+
+.bodycard {
+  text-align: center;
+  margin: 20px;
+  border: 2px black solid;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.bodymain3 {
+  text-align: center;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
+
+.textname {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px;
+}
+.textdes {
+  color: #2b2209;
+  font-size: 1.1rem;
+  margin: 5px;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px;
+  width: 230px;
+}
+.navbody {
+  display: inline-block;
+  width: 100%;
+}
+.navtitle {
+  display: flex;
+  width: 100%;
+}
+.navbodyflex {
+  display: flex;
+}
+.buttonsell {
+  padding: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #062c30;
+  color: #e2d784;
+  border-radius: 10px;
+  border-width: 0;
+  font-size: 1.2rem;
+}
+.textprice {
+  font-size: 1.3rem;
+  font-family: 'Roboto Slab', serif;
+  margin: 5px;
+}
+/* .createbody {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  border: 2px #062c30 solid;
+  width: 50%;
+}
+.inputname {
+  display: flex;
+  margin: 20px;
+  float: left;
+  padding: 10px;
+}
+.inputdes {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+}
+.pricearea {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+}
+
+.inputfile {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+}
+.fileupload {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+}
+.inputbody {
+  justify-content: center;
+  text-align: center;
+}
+.createcreate {
+  display: flex;
+  justify-content: center;
+} */
+.createcreate {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.createbody {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  border: 2px #062c30 solid;
+  width: 50%;
+  box-sizing: border-box;
+}
+.inputbody {
+  justify-content: center;
+}
+
+p {
+  margin: 10px 10px 10px 0;
+  font-size: 1.2rem;
+  font-family: 'Roboto Slab', serif;
+}
+#buttonsell {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.inputname {
+  display: flex;
+
+  padding: 10px;
+}
+.inputdes {
+  display: flex;
+
+  padding: 10px;
+}
+.inputprice {
+  padding: 10px;
+}
+.noitem {
+  font-size: 2rem;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  justify-content: center;
+  margin-top: 200px;
+}
+.noitem1 {
+  font-size: 2rem;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  justify-content: center;
+  margin-top: 10px;
+}
+.bodymain34 {
+  text-align: center;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
